@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henrymendez24
-- 👀 I’m interested in security and networking 
+- 👀 I’m interested in computer security and networking 
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on any project that I can learn from
 - 📫 How to reach me at hmendez3@neiu.edu or henrymendez24@gmail.com 
