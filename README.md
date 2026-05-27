@@ -1,12 +1,52 @@
-- 👋 Hi, I’m @henrymendez24
-- 👀 I’m interested in computer security and networking 
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on any project that I can learn from
-- 📫 How to reach me at hmendez3@neiu.edu or henrymendez24@gmail.com 
-- 😄 
-- ⚡ Fun fact: I have a 3 year old daughter that is my world
+# Hi, I'm Henry Mendez
 
-<!---
-henrymendez24/henrymendez24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science graduate focused on networking, cybersecurity, virtualization, and infrastructure technologies.
+
+I build hands-on homelab environments using tools such as Proxmox, OPNsense, Docker, Linux, and Tailscale to strengthen practical IT and security skills through real-world lab scenarios.
+
+---
+
+## Technologies & Areas of Interest
+
+- Proxmox VE
+- OPNsense
+- Docker
+- Linux
+- Networking & Security
+- Virtualization
+- Remote Access Technologies
+- Homelab Infrastructure
+- System Administration
+
+---
+
+## Current Focus
+
+- Expanding homelab infrastructure projects
+- Strengthening networking and cybersecurity skills
+- Building hands-on virtualization experience
+- Learning advanced infrastructure and security concepts
+- Documenting real-world lab deployments
+
+---
+
+## Featured Projects
+
+### Proxmox Homelab
+Hands-on infrastructure lab focused on:
+- OPNsense deployment
+- Virtual networking
+- Docker services
+- Tailscale integration
+- Firewall management
+- Infrastructure troubleshooting
+
+### Omada AP Controller Lab
+Docker-based Omada Controller deployment and wireless network management lab.
+
+---
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/henrymendez24
+- GitHub: github.com/henrymendez24
